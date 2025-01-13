@@ -10,6 +10,11 @@
     font-family:Fira Sans;
     background-color: rgb(245, 245, 245);
   }
+  #banner{
+    padding: 60px 80px 60px 80px;
+    align-self: center;
+    margin: auto;
+  }
   
   .mainbanner {
     position: static;
